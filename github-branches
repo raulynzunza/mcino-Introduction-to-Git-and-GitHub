@@ -1,0 +1,3 @@
+theia@theia-raulynzunza2:/home/project/myrepo/mcino-Introduction-to-Git-and-GitHub$ git branch -vv
+  bug-fix-typo c6e3235 [origin/bug-fix-typo] Change README Date
+* main         2d9ec6c [origin/main] Revert "Change README Date"
